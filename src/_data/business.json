@@ -1,0 +1,14 @@
+{
+  "name": "Rusty Robot Comics & Toys",
+  "tagline": "Back issues and back-in-the-day toys, all under one roof.",
+  "phone": "(555) 555-0142",
+  "email": "hello@rustyrobotcomics.example",
+  "address": "77 Vinyl Row, Cedar Falls, OH 43215",
+  "originZip": "43215",
+  "freeShippingThreshold": 75,
+  "social": {
+    "instagram": "rustyrobotcomics",
+    "facebook": "rustyrobotcomics",
+    "linkedin": ""
+  }
+}

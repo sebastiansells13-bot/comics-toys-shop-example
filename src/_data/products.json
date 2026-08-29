@@ -1,0 +1,100 @@
+{
+  "list": [
+    {
+      "id": "web-slinger-12",
+      "title": "Amazing Web-Slinger #12",
+      "category": "Comics",
+      "condition": "Very Fine",
+      "price": 45.00,
+      "weight": 0.3,
+      "image": "/img/products/comics.jpg",
+      "description": "Classic silver-age issue. Tight spine, minor edge wear, no tears.",
+      "stock": "In Stock",
+      "featured": true
+    },
+    {
+      "id": "galaxy-guardians-1",
+      "title": "Galaxy Guardians #1 (1977)",
+      "category": "Comics",
+      "condition": "Fine",
+      "price": 28.00,
+      "weight": 0.3,
+      "image": "/img/products/comics.jpg",
+      "description": "First issue of the original run. Some color rub on the spine.",
+      "stock": "In Stock",
+      "featured": false
+    },
+    {
+      "id": "midnight-patrol-annual",
+      "title": "Midnight Patrol Annual",
+      "category": "Comics",
+      "condition": "Near Mint",
+      "price": 65.00,
+      "weight": 0.4,
+      "image": "/img/products/comics.jpg",
+      "description": "Bagged and boarded since purchase. Sharp corners, bright cover.",
+      "stock": "In Stock",
+      "featured": true
+    },
+    {
+      "id": "cosmic-crusaders-45",
+      "title": "Cosmic Crusaders #45",
+      "category": "Comics",
+      "condition": "Good",
+      "price": 12.00,
+      "weight": 0.3,
+      "image": "/img/products/comics.jpg",
+      "description": "Reader copy — creased cover, complete and intact.",
+      "stock": "In Stock",
+      "featured": false
+    },
+    {
+      "id": "windup-tin-roadster",
+      "title": "Wind-Up Tin Roadster (1960s)",
+      "category": "Toys",
+      "condition": "Displayed",
+      "price": 85.00,
+      "weight": 0.8,
+      "image": "/img/products/tin-roadster.jpg",
+      "description": "Driver figure and chassis both original. Wind-up mechanism tested and working.",
+      "stock": "In Stock",
+      "featured": true
+    },
+    {
+      "id": "windup-clown-figure",
+      "title": "Wind-Up Clown Figure",
+      "category": "Toys",
+      "condition": "Displayed",
+      "price": 70.00,
+      "weight": 0.4,
+      "image": "/img/products/clown-figure.jpg",
+      "description": "Hand-painted tin lithograph clown. Mechanism intact, gentle wear to the paint.",
+      "stock": "In Stock",
+      "featured": true
+    },
+    {
+      "id": "windup-mouse-toy",
+      "title": "Wind-Up Mouse Toy",
+      "category": "Toys",
+      "condition": "Loose",
+      "price": 35.00,
+      "weight": 0.2,
+      "image": "/img/products/mouse-toy.jpg",
+      "description": "No box, played-with condition. Key still turns and the mechanism runs.",
+      "stock": "Sold Out",
+      "featured": false
+    },
+    {
+      "id": "planet-quest-boardgame",
+      "title": "Vintage Board Game Collection Box",
+      "category": "Toys",
+      "condition": "Complete in Box",
+      "price": 55.00,
+      "weight": 2.5,
+      "image": "/img/products/board-game.jpg",
+      "description": "A boxed multi-game set — cards, dice, checkers, and a Chinese-checkers board. All pieces present.",
+      "stock": "In Stock",
+      "featured": false
+    }
+  ]
+}
